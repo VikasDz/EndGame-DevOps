@@ -10,3 +10,5 @@ if else elif
 For and while Loops
 Functions
 "
+
+echo "Day2"
