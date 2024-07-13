@@ -12,5 +12,14 @@ echo "#!/bin/bash known as SheBang"
 
 # which bash => return /usr/bin/bash
 # Change permissions of this script using => chmod 755 app.sh
-
+# Loops ,Conditions
+# Backup 
+# Server Stats
+# Cron Jobs
+# ssh 
+# scp ✔️ scp -i "Key-Gen" your-file-name.txt server-address-with-path
+# Keys --- Public Keys   &   Private Keys
+# journalctl --- Check for Log
+# journalctl | awk '/BIOS/ {print $5,$6}
+# ssh-keygen
 
